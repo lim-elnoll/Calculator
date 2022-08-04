@@ -64,6 +64,9 @@ ul{
   padding: 25px;
   border-radius: 5px;
   background-color: #f2f2f2;
+  overflow: hidden;
+  overflow-wrap:break-word;
+  box-shadow: 3px 3px red, -1em 0 0.4em olive;
 }
 
 
